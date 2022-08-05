@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "course": "English 🇬🇧",
+    "price": "690 000"
+  },
+  {
+    "id": 2,
+    "course": "Русский 🇷🇺",
+    "price": "450 000"
+  },
+  {
+    "id": 3,
+    "course": "Web Programming 💻",
+    "price": "800 000"
+  },
+  {
+    "id": 4,
+    "course": "SAT 👨🏻‍🎓",
+    "price": "1 500 000"
+  },
+  {
+    "id": 5,
+    "course": "Accounting 📈",
+    "price": "900 000"
+  }
+]
